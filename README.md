@@ -1,4 +1,4 @@
-# uri
-# Minhas Soluções para alguns problemas do Uri Online Judge
+# Uri Online Judge
+## Algumas soluções dos problemas de programação competitiva 
 
-## Perfil de Usuário: https://www.urionlinejudge.com.br/judge/pt/profile/177802
+### Perfil de Usuário: [Meu Perfil](https://www.urionlinejudge.com.br/judge/pt/profile/177802)
